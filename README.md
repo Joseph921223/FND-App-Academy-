@@ -12,8 +12,6 @@ Created as part of the FNB App Academy initiative.
 1. Install Flask:
 pip install flask
 
-markdown
-Copy
-Edit
+
 2. Run the app:
 python esim_connect_app.py
